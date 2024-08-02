@@ -4,8 +4,13 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Version-0.6.8-blue"> <img alt="required shell BASH" src="https://img.shields.io/badge/required-BASH-green"> <a href="https://matrix.to/#/#notesbash:matrix.org" rel="noopener" target="_blank"><img src="https://matrix.to/img/matrix-badge.svg" alt="Chat on Matrix"></a>    
 </div>
 
+## Declaration
+
 **This is only a copy of the `README`. To get the code and install `notesbash`
 visit the main repo at https://codeberg.org/lukeflo/notesbash**
+
+**Issues can also only be opened at Codeberg:
+https://codeberg.org/lukeflo/notesbash/issues**
 
 ## Introduction
 
