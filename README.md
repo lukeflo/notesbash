@@ -1,7 +1,7 @@
 <div align="center">
     <!-- <img src="./img/notesbash-logo.png" alt="" align="center" /> -->
     <h1 align="center">A notes management tool for bash</h1>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Version-0.6.8-blue"> <img alt="required shell BASH" src="https://img.shields.io/badge/required-BASH-green"> <a href="https://matrix.to/#/#notesbash:matrix.org" rel="noopener" target="_blank"><img src="https://matrix.to/img/matrix-badge.svg" alt="Chat on Matrix"></a>    
+    <img alt="Static Badge" src="https://img.shields.io/badge/Version-1.0.0-blue"> <img alt="required shell BASH" src="https://img.shields.io/badge/required-BASH-green"> <a href="https://matrix.to/#/#notesbash:matrix.org" rel="noopener" target="_blank"><img src="https://matrix.to/img/matrix-badge.svg" alt="Chat on Matrix"></a>    
 </div>
 
 ## Declaration
@@ -44,7 +44,7 @@ directory. The script checks if it run as root, using `sudo`, or by a local
 user. If run as root, it is installed system-wide, else it is installed locally:
 
 ```bash
-git clone https://codeberg.org/lukeflo/notesbash
+git clone --branch release https://codeberg.org/lukeflo/notesbash
 cd notesbash
 
 # To install it for single user only
